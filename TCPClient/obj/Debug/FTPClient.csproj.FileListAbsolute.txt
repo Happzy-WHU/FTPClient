@@ -1,0 +1,9 @@
+D:\C#编程\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\C#编程\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\C#编程\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\C#编程\TCPClient\TCPClient\obj\Debug\FTPClient.csprojAssemblyReference.cache
+D:\C#编程\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\C#编程\TCPClient\TCPClient\obj\Debug\FTPClient.csproj.GenerateResource.cache
+D:\C#编程\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\C#编程\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\C#编程\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
